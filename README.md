@@ -1,4 +1,3 @@
-# soupsong
 
 ## Development Guide
 #### To start development do the following:
